@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bbRedirector\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bbRedirector\n"
+"POT-Creation-Date: 2009-11-24 17:34+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: BjornW <burobjorn@burobjorn.nl>\n"
+"Language-Team: Burobjorn <burobjorn [at] burobjorn [dot] nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+
+#: bbRedirector.php:260
+msgid "Settings"
+msgstr "Instellingen"
+
+#: bbRedirector.php:301
+msgid "Whoops! There was a problem with the data you posted. Please go back and try again."
+msgstr "Oeps! Er was een probleem met de data die je hebt verstuurd. Probeer het alstublieft nogmaals."
+
+#: bbRedirector.php:320
+msgid "Allow default redirection:"
+msgstr "Standaard doorverwijzen is toegestaan:"
+
+#: bbRedirector.php:325
+msgid "Default redirect url:"
+msgstr "Standaard doorverwijzings url:"
+
+#: bbRedirector.php:331
+msgid "Default HTTP status code :"
+msgstr "Standaard HTTP status code:"
+
+#: bbRedirector.php:337
+msgid "Metakey name (used to retrieve per-page redirect url):"
+msgstr "Extra veld naam (wordt gebruikt om de verwijzings url per-pagina op te zoeken)"
+
+#. Plugin Name of an extension
+msgid "bbRedirector"
+msgstr "bbRedirector"
+
+#. #-#-#-#-#  en.pot (bbRedirector 1.0)  #-#-#-#-#
+#. Plugin URI of an extension
+#. #-#-#-#-#  en.pot (bbRedirector 1.0)  #-#-#-#-#
+#. Author URI of an extension
+msgid "http://www.burobjorn.nl"
+msgstr "http://www.burobjorn.nl"
+
+#. Description of an extension
+msgid "bbRedirector makes it easy to redirect a page to another location."
+msgstr "bbRedirector maakt het makkelijk om van een pagina naar een andere locatie te verwijzen."
+
+#. Author of an extension
+msgid "Bjorn Wijers <burobjorn at burobjorn dot nl>"
+msgstr "Bjorn Wijers <burobjorn at burobjorn dot nl>"
+
